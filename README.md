@@ -14,6 +14,7 @@ EventManager is an event management system which was created for the purpose of 
 ## Features
 	1. Event Page
 	2. Visitor Registration
+	3. Some New features
 ## Contribution
 We appreciate any and all efforts to help improve the system. The repository is structured as follows:
   + event-api (Core api codes for Event Management System)
